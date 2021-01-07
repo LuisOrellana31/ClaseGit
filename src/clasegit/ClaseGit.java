@@ -17,6 +17,8 @@ public class ClaseGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Peluchin pelu=new Peluchin();
+        System.out.println("hola"+pelu.nombre);
     }
 
 }
