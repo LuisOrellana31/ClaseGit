@@ -11,4 +11,5 @@ package clasegit;
  */
 public class Peluchin {
     String nombre="Hola soy peluchin";
+    String nombre="Hola soy camas ";
 }
